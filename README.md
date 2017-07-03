@@ -1,8 +1,9 @@
 ## Synopsis
 
-This project solves deterministic logistics planning problems for an Air Cargo transport system using a planning search agent.
-Optimal plans for each problem will be computed.  Unlike the navigation problem, there is no simple distance heuristic to aid the agent.
-I implement domain-independent heuristics.
+This project solves deterministic logistics planning problems for an Air Cargo transport system using a planning search agent. Optimal plans for each problem will be computed. Implemented domain-independent heuristics.
+
+The analysis of the different heuristics and search algorithms can be found in the `heuristic_analysis.pdf`.
+A short research paper on A* search, the STRIPS planning system, and the planning domain definition language can be found in `research_review.pdf`.
 ![Progression air cargo search](images/Progression.PNG)
 
 ## Environment requirements

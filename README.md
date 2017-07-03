@@ -4,6 +4,8 @@ This project solves deterministic logistics planning problems for an Air Cargo t
 
 The analysis of the different heuristics and search algorithms can be found in the `heuristic_analysis.pdf`.
 A short research paper on A* search, the STRIPS planning system, and the planning domain definition language can be found in `research_review.pdf`.
+
+
 ![Progression air cargo search](images/Progression.PNG)
 
 ## Environment requirements
